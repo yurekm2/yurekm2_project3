@@ -51,6 +51,7 @@ nav {
   flex-direction: row;
   margin: 0.25em;
   gap: 0.3em;
+  list-style: none;
 }
 
 .navigation ul li a {

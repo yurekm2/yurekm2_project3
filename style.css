@@ -27,7 +27,7 @@ nav {
   display: flex;
   flex-direction: row;
   position: sticky;
-  align-items: center;
+  justify-content: center;
   justify-items: space-around;
   top: 0px;
   padding: 0.5em;

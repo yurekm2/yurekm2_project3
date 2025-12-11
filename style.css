@@ -129,8 +129,8 @@ footer a:hover {
   }
 
   .navigation ul li {
-    margin: 0;        /* added: remove default li margin */
-    padding: 0;       /* added: remove default li padding */
+    margin: 0; 
+    padding: 0; 
   }
   
   .navigation ul li a {
@@ -140,5 +140,9 @@ footer a:hover {
   font-weight: bold;
   font-size: 0.9em;
   padding: 0.1em;
+  }
+
+  footer {
+  padding: 1em;
   }
 }

@@ -204,6 +204,16 @@ nav {
   text-align: center;
 }
 
+.event h3 {
+  font-family: "Rubik Bubbles", sans-serif;
+  font-size: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.event p {
+  line-height: 1.4em;
+}
+
 /*universal footer*/
 
 footer {

@@ -22,7 +22,7 @@ html {
   font-style: normal;
 }
 
-header {
+nav {
   background-color: #e49e2f;
   display: flex;
   flex-direction: row;
@@ -35,7 +35,7 @@ header {
 }
 
 .title {
-  font-family: "Rubik Bubbles", sans-serif:
+  font-family: "Rubik Bubbles", sans-serif;
   font-size: 2em;
 }
 

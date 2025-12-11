@@ -158,6 +158,7 @@ footer a:hover {
 }
 
 @media (max-width: 480px) {
+/*universal header*/
   
   nav {
     flex-direction: column;
@@ -196,6 +197,32 @@ footer a:hover {
   font-size: 0.9em;
   padding: 0.1em;
   }
+
+/*homepage*/
+  
+  .pictures {
+    flex-direction: row;
+    gap: 0.5em;
+  }
+
+  .pictures img {
+    width: 30%;
+    aspect-ratio: 4/2; 
+  }
+
+  .details {
+    padding: 0 5%;
+  }
+
+  .hometitle h1 {
+    font-size: 2em;
+  }
+
+  .hometitle h2 {
+    font-size: 1em;
+  }
+
+/*universal footer*/
 
   footer {
   padding: 1em;

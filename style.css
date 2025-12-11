@@ -4,7 +4,7 @@
 }
 
 html {
-  color: #ffffff;
+  color: #000000;
   line-height: 1.2;
   font-size: 20pt;
   font-family: 'Dongle', sans-serif;
@@ -22,5 +22,16 @@ html {
   font-style: normal;
 }
 
-
+header {
+  background-color: #e49e2f;
+  display: flex;
+  flex-direction: row;
+  position: sticky;
+  align-items: center;
+  justify-items: space-around;
+  top: 0px;
+  padding: 0.5em;
+  z-index: 2;
+}
+  
 

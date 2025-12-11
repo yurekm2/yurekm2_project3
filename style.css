@@ -96,6 +96,21 @@ nav {
   color: #b8252d;
 }
 
+.pictures {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+  flex-wrap: wrap;
+  margin: 2em 0em;
+}
+
+.pictures img {
+  width: 30%;
+  height: auto;
+  object-fit: cover;
+}
+
 /*universal footer*/
 
 footer {

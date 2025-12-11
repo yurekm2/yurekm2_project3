@@ -28,6 +28,7 @@ nav {
   flex-direction: row;
   position: sticky;
   justify-content: center;
+  align-items: center;
   justify-items: space-around;
   top: 0px;
   padding: 0.5em;

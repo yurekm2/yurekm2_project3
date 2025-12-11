@@ -155,6 +155,18 @@ nav {
   margin-bottom: 2em;
 }
 
+.sosapics {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+.sosapics img {
+  width: 100%;
+  aspect-ratio: 4/3;
+  object-fit: cover;
+}
+
 /*universal footer*/
 
 footer {

@@ -4,9 +4,10 @@
 }
 
 html {
-  color: #222;
-  line-height: 1.4;
-  font-size: 16pt;
+  color: #ffffff;
+  line-height: 1.2;
+  font-size: 20pt;
+  font-family: 'Dongle', sans-serif;
 }
 
 .rubik-bubbles-regular {

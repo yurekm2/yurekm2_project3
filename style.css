@@ -146,6 +146,13 @@ nav {
   color: #b8252d;
 }
 
+.about {
+  display: flex;
+  gap: 2em;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 /*universal footer*/
 
 footer {

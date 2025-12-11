@@ -127,6 +127,25 @@ nav {
   margin-bottom: 0.3em;
 }
 
+/*aboutpage*/
+
+.abouttitle {
+  text-align: center;
+  margin: 2em 0em;
+}
+
+.abouttitle h1 {
+  font-family: "Rubik Bubbles", sans-serif;
+  font-size: 2.5em;
+  margin-bottom: 0.2em;
+}
+
+.abouttitle h2 {
+  font-family: "Dongle", sans-serif;
+  font-size: 1.2em;
+  color: #b8252d;
+}
+
 /*universal footer*/
 
 footer {

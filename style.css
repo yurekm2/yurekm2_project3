@@ -197,9 +197,10 @@ nav {
 }
 
 .event {
-  background-color: #f4cd30;
-  border: 0.05em solid #e49e2f;
+  background-color: #e49e2f;
+  border: 0.8em solid #f4cd30;
   padding: 1em;
+  flex: 1 1 30%;
   text-align: center;
 }
 

@@ -22,6 +22,8 @@ html {
   font-style: normal;
 }
 
+/*universal header*/
+
 nav {
   background-color: #e49e2f;
   display: flex;
@@ -73,6 +75,28 @@ nav {
 .navigation ul li a:hover {
   color: #b8252d
 }
+
+/*homepage*/
+
+.hometitle {
+  text-align: center;
+  margin: 2em 0;
+}
+
+.hometitle h1 {
+  font-family: "Rubik Bubbles", system-ui;
+  font-size: 2.5em;
+  color: #e49e2f;
+  margin-bottom: 0.2em;
+}
+
+.hometitle h2 {
+  font-family: "Dongle", sans-serif;
+  font-size: 1.2em;
+  color: #b8252d;
+}
+
+/*universal footer*/
 
 footer {
   background-color: #000000;

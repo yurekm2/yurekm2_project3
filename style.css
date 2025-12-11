@@ -27,9 +27,8 @@ nav {
   display: flex;
   flex-direction: row;
   position: sticky;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
-  justify-items: space-around;
   top: 0px;
   padding: 0.5em;
   z-index: 2;

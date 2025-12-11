@@ -328,6 +328,16 @@ footer a:hover {
   padding: 0 1em;
   line-height: 1.4em;
   }
+
+/*itinerarypage*/
+  
+  .itinerarytitle h1 {
+    font-size: 2em;
+  }
+
+  .itinerarytitle h2 {
+    font-size: 1em;
+  }
   
 /*universal footer*/
 

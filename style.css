@@ -74,6 +74,16 @@ nav {
   color: #b8252d
 }
 
+footer {
+  background-color: #000000;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 1em 2em;
+  font-family: 'Dongle', sans-serif;
+}
+
 @media (max-width: 480px) {
   
   nav {

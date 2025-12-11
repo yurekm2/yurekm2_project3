@@ -60,6 +60,7 @@ nav {
   color: #000000;
   font-weight: bold;
   font-size: 1.5em;
+  padding: 0.2em;
 }
 
 .navigation ul li a:hover {

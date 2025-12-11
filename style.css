@@ -93,6 +93,16 @@ footer a:hover {
   color: #d983b0;
 }
 
+.sources ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.sources ul li {
+  margin: 0.2em 0em;
+}
+
 @media (max-width: 480px) {
   
   nav {

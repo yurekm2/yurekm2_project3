@@ -279,6 +279,11 @@ footer a:hover {
     aspect-ratio: 5/4;
   }
   
+  .biography {
+  padding: 0 1em;
+  line-height: 1.4em;
+  }
+  
 /*universal footer*/
 
   footer {

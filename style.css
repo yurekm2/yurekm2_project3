@@ -91,7 +91,6 @@ nav {
 }
 
 .hometitle h2 {
-  font-family: "Dongle", sans-serif;
   font-size: 1.2em;
   color: #b8252d;
 }
@@ -123,7 +122,6 @@ nav {
 }
 
 .details p {
-  font-family: "Dongle", sans-serif;
   margin-bottom: 0.3em;
 }
 
@@ -141,7 +139,6 @@ nav {
 }
 
 .abouttitle h2 {
-  font-family: "Dongle", sans-serif;
   font-size: 1.2em;
   color: #b8252d;
 }
@@ -165,6 +162,11 @@ nav {
   width: 50%;
   aspect-ratio: 4/3;
   object-fit: cover;
+}
+
+.biography {
+  padding: 0 2em;
+  line-height: 1.4em;
 }
 
 /*universal footer*/

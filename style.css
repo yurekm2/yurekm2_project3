@@ -105,7 +105,7 @@ nav {
     padding: 0;       /* added: remove default li padding */
   }
   
-.navigation ul li a {
+  .navigation ul li a {
   text-transform: uppercase;
   text-decoration: none;
   color: #000000;

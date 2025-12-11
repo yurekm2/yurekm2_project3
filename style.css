@@ -51,7 +51,16 @@ nav {
   flex-direction: row;
   margin: 0.25em;
   gap: 0.3em;
-  font-size: 1.2em;
-  text-transform: uppercase;
 }
 
+.navigation ul li a {
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.navigation ul li a:hover {
+  color: #b8252d
+}

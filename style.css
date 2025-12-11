@@ -187,6 +187,22 @@ nav {
   color: #b8252d;
 }
 
+.events {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  justify-content: center;
+  padding: 0em 2em;
+  margin-bottom: 2em;
+}
+
+.event {
+  background-color: #f4cd30;
+  border: 0.05em solid #e49e2f;
+  padding: 1em;
+  text-align: center;
+}
+
 /*universal footer*/
 
 footer {
